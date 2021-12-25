@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{e7a3c6a9-e6f7-80c8-8ffa-b82e571a36b9}</ProjectGuid>
+    <ProjectGuid>{50d81602-91f0-83a1-f7c6-a6883a4ed499}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -261,7 +261,7 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.24f1\Editor\Data\Managed\UnityEngine\UnityEditor.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.24f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
@@ -609,39 +609,39 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.24f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\IUT-Hack-A-jam\Zombie\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>C:\Users\hmnra\OneDrive\Documents\GitHub\Zombie-final\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{ec242167-c84d-4aa1-9f1d-3cb930625f59}</Project>
+      <Project>{b8b4dc1f-3cbb-abf1-ee32-0a445e127f81}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
