@@ -77,6 +77,10 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
      <Compile Include="Assets\Scripts\DeathHandler.cs" />
+     <Compile Include="Assets\Scripts\WeaponZoom.cs" />
+     <Compile Include="Assets\Scripts\Ammo.cs" />
+     <Compile Include="Assets\Scripts\AmmoType.cs" />
+     <Compile Include="Assets\Scripts\AmmoPickUp.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
