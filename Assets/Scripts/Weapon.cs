@@ -12,13 +12,17 @@ public class Weapon : MonoBehaviour
     [SerializeField] GameObject hitEffect;
     [SerializeField] Ammo ammoSlot;
 
+
     void Update()
     {
+
+
         if (Input.GetButtonDown("Fire1"))
         {
             Shoot();
         }
     }
+
     private void Shoot()
     {
         if (ammoSlot.GetCurrentAmmo() > 0)
@@ -29,10 +33,7 @@ public class Weapon : MonoBehaviour
         }
 
     }
-    private void Reload()
-    {
 
-    }
 
     private void PlayMuzzleFlash()
     {

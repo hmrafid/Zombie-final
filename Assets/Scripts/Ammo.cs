@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class Ammo : MonoBehaviour
@@ -18,6 +19,7 @@ public class Ammo : MonoBehaviour
             ammoAmount = 10;
         }
     }
+
 
     public int GetCurrentAmmo()
     {

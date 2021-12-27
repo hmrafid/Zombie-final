@@ -1315,8 +1315,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4632232494610299835}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.04536971, y: 0, z: 0.43897793}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6116439575391940883}
@@ -3050,14 +3050,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9085283688972130503}
-  m_LocalRotation: {x: -0, y: 0.3462791, z: -0, w: 0.9381316}
+  m_LocalRotation: {x: 0, y: 0.34628084, z: 0, w: 0.9381309}
   m_LocalPosition: {x: 12.265248, y: 0.6117115, z: 11.197483}
   m_LocalScale: {x: 2.5, y: 1, z: 1.5}
   m_Children:
   - {fileID: 8508327952777365928}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 40.52, z: 0}
 --- !u!23 &9085283688972130498
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3120,7 +3120,7 @@ NavMeshAgent:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9085283688972130503}
-  m_Enabled: 0
+  m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.58
   m_Speed: 3.5
@@ -3187,7 +3187,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9085283688972130503}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 50db6be09efa005499df17493216ccfa, type: 3}
   m_Name: 
